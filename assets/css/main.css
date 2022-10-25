@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image:  url("images/background-gradient-lights.jpg");
+		background-image:  url("images/bg.png");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
